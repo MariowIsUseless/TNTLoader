@@ -1,4 +1,5 @@
-![tntloader](https://user-images.githubusercontent.com/102176023/162567158-5410b245-fde0-41b5-b4b8-9d0a96e9077b.png)
+![tntloader-removebg-preview](https://user-images.githubusercontent.com/102176023/162567240-48bb00eb-23a1-493e-9c8f-9ed8825dda60.png)
+
 
 # TNTLoader
 An advanced API for fabric/fabric mods.
