@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# TNT Loader
 
-You can use the [editor on GitHub](https://github.com/MariowIsUseless/TNTLoader/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+TNT Loader is an advanced Fabric API version, compatible with ANY mods.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**NOTE**: you need the most recent version of [Fabric Loader](https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.10.2/fabric-installer-0.10.2.exe) to use the API.
 
-### Markdown
+### Errors
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Fabric API not found
 
-```markdown
-Syntax highlighted code block
+In case fabric gives you an error: "Fabric API not found" just click [here](https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3689020/file) and then, click on the file in "Downloads" and press F2, then press CTRL+A and then press CTRL+C. Go ahead in %appdata%\.minecraft\mods and click on TNTLoader.jar, press F2 then press CTRL+A, and then CTRL+V.
 
-# Header 1
-## Header 2
-### Header 3
+- Fabric API is outdated
 
-- Bulleted
-- List
+That means that the version of the loader is newer than the API, that means you need to download a new version, if you downloaded the latest, and, still getting this error, i'm still working on a new version, and you need to use the standard API.
 
-1. Numbered
-2. List
+- Game crashes or -1 error code
 
-**Bold** and _Italic_ and `Code` text
+That means that some of your mods made the game crash, you need to remove the one you think is, and then start the game if you still get the error, you need to test one-at once.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MariowIsUseless/TNTLoader/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
